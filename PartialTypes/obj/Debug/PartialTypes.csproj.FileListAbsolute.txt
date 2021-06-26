@@ -1,0 +1,6 @@
+D:\Projects\Chapter4v6\PartialTypes\bin\Debug\PartialTypes.exe.config
+D:\Projects\Chapter4v6\PartialTypes\bin\Debug\PartialTypes.exe
+D:\Projects\Chapter4v6\PartialTypes\bin\Debug\PartialTypes.pdb
+D:\Projects\Chapter4v6\PartialTypes\obj\Debug\PartialTypes.csproj.CoreCompileInputs.cache
+D:\Projects\Chapter4v6\PartialTypes\obj\Debug\PartialTypes.exe
+D:\Projects\Chapter4v6\PartialTypes\obj\Debug\PartialTypes.pdb
